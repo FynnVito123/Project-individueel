@@ -21,6 +21,13 @@ header {
     margin-right: 3%;
 }
 
+.kleineaanpassing {
+    float: right;
+    margin-right: 3%;
+    width: 10em;
+    margin-bottom: 3%;
+}
+
 p {
     margin-right: 50%;
     float: left;
