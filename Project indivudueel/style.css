@@ -47,6 +47,7 @@ h2 {
     font-size: x-large;
     margin-left: 3%;
 }
+
 h3 {
     margin-top: 70%;
     font-size: x-large;
@@ -61,7 +62,7 @@ nav {
     background-color: brown;
     display: flex;
     justify-content: space-between;
-    width: 100vw;    
+    width: 100vw;
     border-radius: 20px;
 
 }
@@ -108,6 +109,7 @@ nav {
 .idk {
     margin-top: 0%;
 }
+
 div {
     background-color: darksalmon;
     display: flow-root;
@@ -116,12 +118,14 @@ div {
     margin-right: 10%;
     padding: 2%;
 }
+
 .andere-kant {
     margin-left: 10%;
     margin-right: 0;
     margin-bottom: 10%;
     padding: 0;
 }
+
 .info-pag {
     margin-bottom: 0;
 }
